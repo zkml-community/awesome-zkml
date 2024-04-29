@@ -117,6 +117,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Daniel Kang](https://ddkang.github.io/), [Tatsunori Hashimoto](https://thashim.github.io/), [Ion Stoica](http://people.eecs.berkeley.edu/~istoica/), [Yi Sun](https://yisun.io/) (2022). [Scaling up Trustless DNN Inference with Zero-Knowledge Proofs](https://arxiv.org/abs/2210.08674)
 - [Haodi Wang, Thang Hoang (2022). ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline](https://arxiv.org/abs/2212.05428)
 - [Modulus Labs - The Cost of Intelligence: Proving Machine Learning Inference with Zero-Knowledge](https://drive.google.com/file/d/1tylpowpaqcOhKQtYolPlqvx6R2Gv4IzE/view)
+- [zkLLM: Zero Knowledge Proofs for Large Language Models - Haochen Sun, Jason Li, Hongyang Zhang](https://arxiv.org/pdf/2404.16109)
 
 ## Projects interested in ZKML
 
